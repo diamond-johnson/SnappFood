@@ -1,2 +1,2 @@
 # SnappFood
- 
+The SnappFood Java code efficiently solves the problem of finding the best combination of food items to maximize spending within a budget limit. By sorting the prices and iteratively selecting pairs of items, the code determines the optimal spending scenario. This code can be used in various scenarios where budget optimization is crucial, such as shopping applications or financial planning tools. 
